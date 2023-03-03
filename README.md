@@ -1,3 +1,19 @@
+### About this package
+
+This package is a fork to official rsuite repository, with these built-in changes
+
+- @reset-import/@enable-css-reset set to **false**
+
+### Build & publish
+
+Run
+
+```
+./build-mitech.sh
+```
+
+---
+
 <p align="center">
   <a href="https://rsuitejs.com" target="_blank" rel="noopener noreferrer">
    <img src="https://user-images.githubusercontent.com/1203827/65102389-7be3f100-d9fd-11e9-859e-ae9617ed2f91.png" alt="React Suite logo">
